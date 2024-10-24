@@ -9,3 +9,4 @@ To add yourself to the list, check [CONTRIBUTING.md](CONTRIBUTING.md) ✨
 | Name | Topics | Around The Web | Location |
 | ------------- | ------------- | ------------- | ------------- |
 | **Your Name**  | Svelte, React, GraphQL | [Twitter](https://x.com/LisboaJSMeetup), [LinkedIn](https://www.linkedin.com/company/lisboajs/) | Lisboa |
+| **Elizabet Oliveira** | React, Design Systems, Framer Motion | [Twitter](https://x.com/miuki_miu), [LinkedIn](https://www.linkedin.com/in/elizabetoliveira/) | Aveiro |
