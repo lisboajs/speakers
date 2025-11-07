@@ -1,6 +1,6 @@
-# JavaScript Speakers Based in Portugal
+# List of Speakers
 
-A list of people who can give talks related with the **JavaScript ecosystem** based in Portugal or somehow connected to the LisboaJS community. Please feel free to use it for your own events.
+This is a list of people who can give talks related to **software engineering** and the JavaScript ecosystem (tooling, testing, etç), and who are based in Portugal or visit often. Please feel free to use it for your own events.
 
 To add yourself to the list, check [CONTRIBUTING.md](CONTRIBUTING.md) ✨
 
