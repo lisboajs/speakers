@@ -13,3 +13,4 @@ To add yourself to the list, check [CONTRIBUTING.md](CONTRIBUTING.md) ✨
 | **Pedro Rodrigues** | MCP, AI Tooling, Full-Stack | [Twitter](https://x.com/rodriguespn23), [GitHub](https://github.com/Rodriguespn), [LinkedIn](https://www.linkedin.com/in/pedro-neves-rodrigues/) | Lisboa, Portugal |
 | **Teresa Alves** | System Design, Backend & Platform Engineering | [LinkedIn](https://www.linkedin.com/in/teresalves), [GitHub](https://github.com/teresalves), [Website](https://techteresa.com/)| Lisboa, Portugal |
 | **Alexey Adamovskiy** | MCP, Full-Stack | [LinkedIn](https://www.linkedin.com/in/adamovskiy) | Porto, Portugal |
+| **Liliana Pereira** | Backend, AI | [LinkedIn](https://www.linkedin.com/in/lcfpereira) | Lisboa, Portugal |
